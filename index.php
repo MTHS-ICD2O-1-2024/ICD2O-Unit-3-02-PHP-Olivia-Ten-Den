@@ -62,11 +62,10 @@
               type=" number"
               step="any"
               pattern="-?[0-9]*(\.[0-9]+)?"
-              id="length-of-pyramid">
+              name="length-of-pyramid">
             <label class="mdl-textfield__label" for="length-of-pyramid">Enter the length of the pyramid here (mm)</label>
             <span class="mdl-textfield__error">Input is not a number!</span>
           </div>
-        </form>
         mm
         <br />
         Width:
@@ -76,11 +75,10 @@
             type=" number"
             step="any"
             pattern="-?[0-9]*(\.[0-9]+)?"
-            id="width-of-pyramid">
+            name="width-of-pyramid">
           <label class="mdl-textfield__label" for="width-of-pyramid">Enter the width of the pyramid here (mm)</label>
           <span class="mdl-textfield__error">Input is not a number!</span>
         </div>
-        </form>
         mm
         <br />
         Height:
@@ -90,11 +88,10 @@
             type=" number"
             step="any"
             pattern="-?[0-9]*(\.[0-9]+)?"
-            id="height-of-pyramid">
+            name="height-of-pyramid">
           <label class="mdl-textfield__label" for="height-of-pyramid">Enter the height of the pyramid here (mm)</label>
           <span class="mdl-textfield__error">Input is not a number!</span>
         </div>
-        </form>
         mm
         <br />
         <!-- Accent-colored raised button with ripple -->

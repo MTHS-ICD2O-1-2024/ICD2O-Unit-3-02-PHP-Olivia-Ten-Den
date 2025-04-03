@@ -56,7 +56,7 @@
           $volumeOfPyramid = ($lengthOfPyramid * $widthOfPyramid * $heightOfPyramid) / 3;
 
           // output
-          echo "If the pyramid has a length of" . $lengthOfPyramid . "mm, a width of " . $widthOfPyramid . "mm and a height of " . $heightOfPyramid . "mm.";
+          echo "If the pyramid has a length of " . $lengthOfPyramid . "mm, a width of " . $widthOfPyramid . "mm and a height of " . $heightOfPyramid . "mm.";
           echo "<br />";
           echo "Then the volume of the pyramid will be " . $volumeOfPyramid . " mm³.";
           ?>
