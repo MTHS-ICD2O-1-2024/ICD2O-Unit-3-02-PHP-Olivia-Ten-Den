@@ -51,7 +51,7 @@
         <br />
         <br />
         <br />
-        Please enter the pyramid's for measurements (mm).
+        Please enter the pyramid's measurements (mm).
       </div>
       <div class="page-content-php">
         <form action="answer.php" method="GET">
